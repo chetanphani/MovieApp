@@ -1,0 +1,15 @@
+@import '../../CommonComp/colors.scss';
+
+.footer
+{
+    background-color: $secondary-color;
+    // max-height: 400px;
+    // width: 100%;
+    height: 36px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    h4{
+           color: orangered;
+    }
+}
